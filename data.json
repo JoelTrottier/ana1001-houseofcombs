@@ -1,0 +1,331 @@
+[{
+	"room_id": "a-1",
+	"bee_name": "beemaster",
+	"bee_id": "VZHlFJwO",
+	"navigate_to": ["b-1", "c-2", "b-2"],
+	"healer_rand_factor": 0,
+	"salesman_rand_factor": 0,
+	"difficulty_tier": 0,
+	"room_text": "Well well well. Not sure how you ended up here... but it looks like \nyou got yourself into a sticky situation.\n\nNo worries. There is a way out of here: \n\nTake whatever money you have in your pocket, and go forward into any\nof these honeycomb rooms that are accessible.\n\nHere, take this deck of cards. You'll need it. \nYou can keep that... I don't want it after you touched it...\n\nEach room has a host bee that you must win a simple game of highest\ncard against to proceed. Aces are high, no Jokers. The closer you get\nto the Queen (I'll get into her whole deal in a second), the worse\nyour odds are of winning, because they are straight up cheaters, and\nthe higher-ups play with only partial decks. (I heard the top bees\nplay only with Jacks, Queens, Kings and Aces...)  \n\nIf the situation does not seem favorable to you, you may run away, \nbut at a cost. See, humans don't know this but our stingers hurt you\nbased on your bond with each individual bee. We have a straight wire\ntap to the Love API that tells us how much we'll hurt you. So if you\nrun away, we'll sting you! But the amount of health you'll lose will \nbe based off our very advanced proprietary calculations from that API\n\nOnce you get passed a room, you can't go back in... Unless you run\ninto that pushy sales bee... I think he has a way to unlock rooms. \nSo pick your path wisely just in case.\n\nTake this device with you. Every bee has one to navigate around here.\nIt's a HONEYCOMB-TRONIC VIEWER 3000! Wow, they give guests the 3000s?\n... mine's only a 1800C. Anyway! This thing shows you where you're at \nright now in the middle of the screen, and shows the adjacent rooms \nyou can go to (or not, if they're grayed out). It also shows your \nhealth and your cash on hand. As well as your current location label\non the rightmost square there. And oh ya, the honey indicator...\n\nSo uh, the only way you'll get out of here is if you give the Queen\n500K units of honey, or more. She'll take it all. Our honey is worth\nwhatever the BEE crypto coin is worth (don't ask), so whatever cash on\nhand you have will get converted to BEE coins in real time, which to\nus is the same as honey. Get it? The honey value on your device there \nis based on the current exchange rate. If that's below 500K be careful\nwhen you go see the Queen. She'll probably sting you if you don't have\nenough... But hey, maybe you'll be a good match with the Love API and \nit won't hurt!\n\nI think that's about it... Oh, if you spot any cash on the ground, its\nall yours. It's probably from the last person who got stung to death! \n\nGood luck!",
+	"proximal_comb_matrix": ["c-1", "c-2", "c-3", "b-1", "b-2", "", "", "a-1", "", "", "", "", "", "", ""]
+}, {
+	"room_id": "b-1",
+	"bee_name": "chlobee",
+	"bee_id": "RwiDMOcl",
+	"navigate_to": ["c-1", "d-2", "c-2"],
+	"healer_rand_factor": 0,
+	"salesman_rand_factor": 0,
+	"difficulty_tier": 1,
+	"room_text": "I might \"bee\" small, but I know how to put a card down, sucka!",
+	"proximal_comb_matrix": ["d-1", "d-2", "d-3", "c-1", "c-2", "", "", "b-1", "b-2", "", "a-1", "", "", "", ""]
+}, {
+	"room_id": "b-2",
+	"bee_name": "anabee",
+	"bee_id": "BYRDqQxa",
+	"navigate_to": ["c-2", "d-3", "c-3"],
+	"healer_rand_factor": 0,
+	"salesman_rand_factor": 0,
+	"difficulty_tier": 1,
+	"room_text": "Bee-hold! A fool who wants to gamble my honey!",
+	"proximal_comb_matrix": ["d-2", "d-3", "d-4", "c-2", "c-3", "", "b-1", "b-2", "", "a-1", "", "", "", "", ""]
+}, {
+	"room_id": "c-1",
+	"bee_name": "beeneece",
+	"bee_id": "BbjvlQrr",
+	"navigate_to": ["d-1", "e-1", "d-2", "b-1"],
+	"healer_rand_factor": 45,
+	"salesman_rand_factor": 30,
+	"difficulty_tier": 2,
+	"room_text": "Listen, I don't even want to \"bee\" here. Let's just get this over with.",
+	"proximal_comb_matrix": ["", "e-1", "e-2", "d-1", "d-2", "", "", "c-1", "c-2", "", "b-1", "", "", "", "a-1"]
+}, {
+	"room_id": "c-2",
+	"bee_name": "beezer",
+	"bee_id": "rehTSxbU",
+	"navigate_to": ["b-1", "d-2", "e-2", "d-3", "b-2"],
+	"healer_rand_factor": 0,
+	"salesman_rand_factor": 0,
+	"difficulty_tier": 2,
+	"room_text": "Bzzt bzzt, buzzidy buzz buzz buzzeroo. Buzz!",
+	"proximal_comb_matrix": ["e-1", "e-2", "e-3", "d-2", "d-3", "", "c-1", "c-2", "c-3", "b-1", "b-2", "", "", "a-1", ""]
+}, {
+	"room_id": "c-3",
+	"bee_name": "abeegail",
+	"bee_id": "cgnglFbu",
+	"navigate_to": ["b-2", "d-3", "e-3", "d-4"],
+	"healer_rand_factor": 45,
+	"salesman_rand_factor": 30,
+	"difficulty_tier": 2,
+	"room_text": "Well hello there good lookin'. Care to play? No puns here, honey.",
+	"proximal_comb_matrix": ["e-2", "e-3", "", "d-3", "d-4", "", "c-2", "c-3", "", "b-2", "", "", "a-1", "", ""]
+}, {
+	"room_id": "d-1",
+	"bee_name": "cebeelia",
+	"bee_id": "pDJomVIs",
+	"navigate_to": ["f-1", "e-1", "c-1"],
+	"healer_rand_factor": 40,
+	"salesman_rand_factor": 15,
+	"difficulty_tier": 3,
+	"room_text": "Don't \"bee\" scared. Bee-neath this rough exterior there's a kind\nand gentle bee-ing.",
+	"proximal_comb_matrix": ["", "f-1", "f-2", "", "e-1", "", "", "d-1", "d-2", "", "c-1", "", "", "", "b-1"]
+}, {
+	"room_id": "d-2",
+	"bee_name": "beelicity",
+	"bee_id": "KQTIkfVa",
+	"navigate_to": ["b-1", "c-1", "e-1", "f-2", "e-2", "c-2"],
+	"healer_rand_factor": 40,
+	"salesman_rand_factor": 15,
+	"difficulty_tier": 3,
+	"room_text": "I heard you were coming. \"Bee\" ready to \"bee\", uhm \u2026 carded!",
+	"proximal_comb_matrix": ["f-1", "f-2", "f-3", "e-1", "e-2", "", "d-1", "d-2", "d-3", "c-1", "c-2", "", "", "b-1", "b-2"]
+}, {
+	"room_id": "d-3",
+	"bee_name": "beevette",
+	"bee_id": "xBFzGyzZ",
+	"navigate_to": ["b-2", "c-2", "e-2", "f-3", "e-3", "c-3"],
+	"healer_rand_factor": 40,
+	"salesman_rand_factor": 15,
+	"difficulty_tier": 3,
+	"room_text": "Beets, beets, beets, beets, beets, beets, beets, beets. Beets!",
+	"proximal_comb_matrix": ["f-2", "f-3", "f-4", "e-2", "e-3", "", "d-2", "d-3", "d-4", "c-2", "c-3", "", "b-1", "b-2", ""]
+}, {
+	"room_id": "d-4",
+	"bee_name": "penelobee",
+	"bee_id": "kyRHnxcS",
+	"navigate_to": ["c-3", "e-3", "f-4"],
+	"healer_rand_factor": 40,
+	"salesman_rand_factor": 15,
+	"difficulty_tier": 3,
+	"room_text": "Howdy doody stranger. Do you think I'm bee-utiful ? Huh!? How dare you!",
+	"proximal_comb_matrix": ["f-3", "f-4", "", "e-3", "", "", "d-3", "d-4", "", "c-3", "", "", "b-2", "", ""]
+}, {
+	"room_id": "e-1",
+	"bee_name": "beesadora",
+	"bee_id": "foHThUTk",
+	"navigate_to": ["c-1", "d-1", "f-1", "g-1", "f-2", "d-2"],
+	"healer_rand_factor": 35,
+	"salesman_rand_factor": 10,
+	"difficulty_tier": 4,
+	"room_text": "Lets do this! Come on! Lets go! Alright! I'm ready! Woohoo!\nToo much coffee?! Never!!",
+	"proximal_comb_matrix": ["", "g-1", "g-2", "f-1", "f-2", "", "", "e-1", "e-2", "d-1", "d-2", "", "", "c-1", "c-2"]
+}, {
+	"room_id": "e-2",
+	"bee_name": "genebeeve",
+	"bee_id": "jNjyIfQW",
+	"navigate_to": ["c-2", "d-2", "f-2", "g-2", "f-3", "d-3"],
+	"healer_rand_factor": 35,
+	"salesman_rand_factor": 10,
+	"difficulty_tier": 4,
+	"room_text": "You're about halfway there. How are you feeling? Want to take a nap?\nToo bad!",
+	"proximal_comb_matrix": ["g-1", "g-2", "g-3", "f-2", "f-3", "", "e-1", "e-2", "e-3", "d-2", "d-3", "", "c-1", "c-2", "c-3"]
+}, {
+	"room_id": "e-3",
+	"bee_name": "beelly",
+	"bee_id": "TUXbXqmX",
+	"navigate_to": ["c-3", "d-3", "f-3", "g-3", "f-4", "d-4"],
+	"healer_rand_factor": 35,
+	"salesman_rand_factor": 10,
+	"difficulty_tier": 4,
+	"room_text": "My boss says I have to think of something clever to say but I'm not\nin the mood. Bee-gone soon please.",
+	"proximal_comb_matrix": ["g-2", "g-3", "", "f-3", "f-4", "", "e-2", "e-3", "", "d-3", "d-4", "", "c-2", "c-3", ""]
+}, {
+	"room_id": "f-1",
+	"bee_name": "beedgette",
+	"bee_id": "DuzMZfrI",
+	"navigate_to": ["h-1", "g-1", "e-1", "d-1"],
+	"healer_rand_factor": 25,
+	"salesman_rand_factor": 8,
+	"difficulty_tier": 5,
+	"room_text": "Oh this is my moment! Okay put your cards where you mouth is, friend.\nWhat do you got?",
+	"proximal_comb_matrix": ["", "h-1", "h-2", "", "g-1", "", "", "f-1", "f-2", "", "e-1", "", "", "d-1", "d-2"]
+}, {
+	"room_id": "f-2",
+	"bee_name": "desibee",
+	"bee_id": "QfhRueiQ",
+	"navigate_to": ["d-2", "e-1", "g-1", "h-2", "g-2", "e-2"],
+	"healer_rand_factor": 25,
+	"salesman_rand_factor": 8,
+	"difficulty_tier": 5,
+	"room_text": "Can you hear her buzzing? The Queen\u2026 You better make her happy.\nWe don't like when she's unhappy.",
+	"proximal_comb_matrix": ["h-1", "h-2", "h-3", "g-1", "g-2", "", "f-1", "f-2", "f-3", "e-1", "e-2", "", "d-1", "d-2", "d-3"]
+}, {
+	"room_id": "f-3",
+	"bee_name": "beenifred",
+	"bee_id": "ZFqlemIZ",
+	"navigate_to": ["d-3", "e-2", "g-2", "h-3", "g-3", "e-3"],
+	"healer_rand_factor": 25,
+	"salesman_rand_factor": 8,
+	"difficulty_tier": 5,
+	"room_text": "Well g'day good sir and or madam. How may I be of service to you?\nCheerio, let us partake in this exchange shall we? Mmm, yes. I do bee-lieve.",
+	"proximal_comb_matrix": ["h-2", "h-3", "h-4", "g-2", "g-3", "", "f-2", "f-3", "f-4", "e-2", "e-3", "", "d-2", "d-3", "d-4"]
+}, {
+	"room_id": "f-4",
+	"bee_name": "beedan",
+	"bee_id": "LxiInZrQ",
+	"navigate_to": ["d-4", "e-3", "g-3", "h-4"],
+	"healer_rand_factor": 25,
+	"salesman_rand_factor": 8,
+	"difficulty_tier": 5,
+	"room_text": "Bzzzzt buzz buzz, man! Bzzzt buzz buzzing ya know, bro?",
+	"proximal_comb_matrix": ["h-3", "h-4", "", "g-3", "", "", "f-3", "f-4", "", "e-3", "", "", "d-3", "d-4", ""]
+}, {
+	"room_id": "g-1",
+	"bee_name": "jakobee",
+	"bee_id": "zVHGhNIj",
+	"navigate_to": ["e-1", "f-1", "h-1", "i-1", "h-2", "f-2"],
+	"healer_rand_factor": 20,
+	"salesman_rand_factor": 4,
+	"difficulty_tier": 6,
+	"room_text": "I'm like, SUPER smart. If I really wanted to, I could \"bee\"t you at\nthis game, but it just wouldn't \"bee\" fair to you.",
+	"proximal_comb_matrix": ["", "i-1", "i-2", "h-1", "h-2", "", "", "g-1", "g-2", "f-1", "f-2", "", "", "e-1", "e-2"]
+}, {
+	"room_id": "g-2",
+	"bee_name": "tabeetha",
+	"bee_id": "qidsBwHI",
+	"navigate_to": ["e-2", "f-2", "h-2", "i-2", "h-3", "f-3"],
+	"healer_rand_factor": 20,
+	"salesman_rand_factor": 15,
+	"difficulty_tier": 6,
+	"room_text": "You're in the upper tier now. Want me to put you out of your misery?\nYou need to make her happy\u2026 the Queen Bee, you see?",
+	"proximal_comb_matrix": ["i-1", "i-2", "i-3", "h-2", "h-3", "", "g-1", "g-2", "g-3", "f-2", "f-3", "", "e-1", "e-2", "e-3"]
+}, {
+	"room_id": "g-3",
+	"bee_name": "victobeeah",
+	"bee_id": "upXDhKSd",
+	"navigate_to": ["e-3", "f-3", "h-3", "i-3", "h-4", "f-4"],
+	"healer_rand_factor": 20,
+	"salesman_rand_factor": 4,
+	"difficulty_tier": 6,
+	"room_text": "Bee-hind every good bee there's always a stinger. (I'm here all week)",
+	"proximal_comb_matrix": ["i-2", "i-3", "", "h-3", "h-4", "", "g-2", "g-3", "", "f-3", "f-4", "", "e-2", "e-3", ""]
+}, {
+	"room_id": "h-1",
+	"bee_name": "olibee",
+	"bee_id": "GrtrqblF",
+	"navigate_to": ["i-1", "g-1", "f-1"],
+	"healer_rand_factor": 15,
+	"salesman_rand_factor": 7,
+	"difficulty_tier": 7,
+	"room_text": "Put the card down. Or don't. See what happens.",
+	"proximal_comb_matrix": ["", "", "j-1", "", "i-1", "", "", "h-1", "h-2", "", "g-1", "", "", "f-1", "f-2"]
+}, {
+	"room_id": "h-2",
+	"bee_name": "beently",
+	"bee_id": "eZnibBZG",
+	"navigate_to": ["f-2", "g-1", "i-1", "j-1", "i-2", "g-2"],
+	"healer_rand_factor": 15,
+	"salesman_rand_factor": 7,
+	"difficulty_tier": 7,
+	"room_text": "Bee-cause of you, the Queen tells us to be on our best behaviour.\nCan you bee-lieve that? What about our feelings? ",
+	"proximal_comb_matrix": ["", "j-1", "j-2", "i-1", "i-2", "", "h-1", "h-2", "h-3", "g-1", "g-2", "", "f-1", "f-2", "f-3"]
+}, {
+	"room_id": "h-3",
+	"bee_name": "beekind-rewind",
+	"bee_id": "fLPYnCNh",
+	"navigate_to": ["f-3", "g-2", "i-2", "j-2", "i-3", "g-3"],
+	"healer_rand_factor": 15,
+	"salesman_rand_factor": 7,
+	"difficulty_tier": 7,
+	"room_text": "You got any VHS tapes lying around?? I need them. I have a V-Bee-R\n(a video bee recorder) and I'm itching to use it!",
+	"proximal_comb_matrix": ["j-1", "j-2", "", "i-2", "i-3", "", "h-2", "h-3", "h-4", "g-2", "g-3", "", "f-2", "f-3", "f-4"]
+}, {
+	"room_id": "h-4",
+	"bee_name": "beetrove",
+	"bee_id": "zmMMCrum",
+	"navigate_to": ["f-4", "g-3", "i-3"],
+	"healer_rand_factor": 15,
+	"salesman_rand_factor": 7,
+	"difficulty_tier": 7,
+	"room_text": "My mom thinks I'm special. Bee-cause I could count to ten bee-fore\nI turned 3 hours old. It helps with these card games.",
+	"proximal_comb_matrix": ["j-2", "", "", "i-3", "", "", "h-3", "h-4", "", "g-3", "", "", "f-3", "f-4", ""]
+}, {
+	"room_id": "i-1",
+	"bee_name": "marcebee",
+	"bee_id": "GAFIoSGh",
+	"navigate_to": ["j-1", "h-2", "g-1", "h-1"],
+	"healer_rand_factor": 5,
+	"salesman_rand_factor": 20,
+	"difficulty_tier": 8,
+	"room_text": "WHO ARE YOU? WHERE AM I? HELLO? Oh, light switch. There we go.\nHello! Oh god... Let me turn that light back off, one second.\nOkay, what's up?",
+	"proximal_comb_matrix": ["", "", "k-1", "", "j-1", "", "", "i-1", "i-2", "h-1", "h-2", "", "", "g-1", "g-2"]
+}, {
+	"room_id": "i-2",
+	"bee_name": "beetrude",
+	"bee_id": "MbLQtypT",
+	"navigate_to": ["g-2", "h-2", "j-1", "k-1", "j-2", "h-3"],
+	"healer_rand_factor": 5,
+	"salesman_rand_factor": 20,
+	"difficulty_tier": 8,
+	"room_text": "Not much further now. Do you have what she wants? You better have\nwhat she wants\u2026",
+	"proximal_comb_matrix": ["", "k-1", "", "j-1", "j-2", "", "i-1", "i-2", "i-3", "h-2", "h-3", "", "g-1", "g-2", "g-3"]
+}, {
+	"room_id": "i-3",
+	"bee_name": "jasbeen",
+	"bee_id": "gghoagcW",
+	"navigate_to": ["h-4", "g-3", "h-3", "j-2"],
+	"healer_rand_factor": 5,
+	"salesman_rand_factor": 20,
+	"difficulty_tier": 8,
+	"room_text": "I have a Justin Bee-ber concert to attend, so if we can make this\nquick that'd be great.",
+	"proximal_comb_matrix": ["k-1", "", "", "j-2", "", "", "i-2", "i-3", "", "h-3", "h-4", "", "g-2", "g-3", ""]
+}, {
+	"room_id": "j-1",
+	"bee_name": "beebee",
+	"bee_id": "rOsqPsOW",
+	"navigate_to": ["k-1", "i-2", "h-2", "i-1"],
+	"healer_rand_factor": 3,
+	"salesman_rand_factor": 40,
+	"difficulty_tier": 9,
+	"room_text": "You'll have to go through me first, buddy! Buzz buzz, mudabuzzer!",
+	"proximal_comb_matrix": ["", "", "", "", "k-1", "", "", "j-1", "j-2", "i-1", "i-2", "", "h-1", "h-2", "h-3"]
+}, {
+	"room_id": "j-2",
+	"bee_name": "mabeel",
+	"bee_id": "jpPltBEs",
+	"navigate_to": ["i-3", "h-3", "i-2", "k-1"],
+	"healer_rand_factor": 3,
+	"salesman_rand_factor": 40,
+	"difficulty_tier": 9,
+	"room_text": "There's no turning back now. Or maybe there is\u2026 Not sure. That's what\nyour map is for. What am I, your Bee Guide? Buzz off.",
+	"proximal_comb_matrix": ["", "", "", "k-1", "", "", "j-1", "j-2", "", "i-2", "i-3", "", "h-2", "h-3", "h-4"]
+}, {
+	"room_id": "k-1",
+	"bee_name": "queen bee-atrice",
+	"bee_id": "VyQXuPOD",
+	"navigate_to": [""],
+	"healer_rand_factor": 0,
+	"salesman_rand_factor": 0,
+	"difficulty_tier": 10,
+	"room_text": "Buuuzzzzzzzz! You made it. I hope my minions weren't too, beeeee\u2026 uh\u2026\nbee\u2026 loved? Beeloved? No no. Too, bee-gg on, uh, hurting you! Bzz\nbzz bzz. So, do you have what I demand?",
+	"proximal_comb_matrix": ["", "", "", "", "", "", "", "k-1", "", "j-1", "j-2", "", "i-1", "i-2", "i-3"]
+}, {
+	"room_id": "x-0",
+	"bee_name": "beemaster",
+	"bee_id": "VZHlFJwO",
+	"navigate_to": [""],
+	"healer_rand_factor": 0,
+	"salesman_rand_factor": 0,
+	"difficulty_tier": 0,
+	"room_text": "Oh no\u2026 They killed you? That's unfortunate. Well, we're always here\nif you want to come back for more sweet sweet justice!",
+	"proximal_comb_matrix": ["", "", "", "", "", "", "", "x-x", "", "", "", "", "", "", ""]
+}, {
+	"room_id": "y-0",
+	"bee_name": "healer mcbeel",
+	"bee_id": "yJRwOkfjUmqZ",
+	"navigate_to": [""],
+	"healer_rand_factor": 0,
+	"salesman_rand_factor": 0,
+	"difficulty_tier": 0,
+	"room_text": "Hello there stranger. Are you hurt? Let me heal you. It will only\ncost you a little\u2026",
+	"proximal_comb_matrix": ["", "", "", "", "", "", "", "\u2661-\u2661", "", "", "", "", "", "", ""]
+}, {
+	"room_id": "z-0",
+	"bee_name": "beest of burden",
+	"bee_id": "FfAtoeWRrwXa",
+	"navigate_to": [""],
+	"healer_rand_factor": 0,
+	"salesman_rand_factor": 0,
+	"difficulty_tier": 0,
+	"room_text": "Oh there's the gambling outsider! Let me sell you something, I've\ngot a deal you won't \"bee\"lieve!",
+	"proximal_comb_matrix": ["", "", "", "", "", "", "", "$-$", "", "", "", "", "", "", ""]
+}]
